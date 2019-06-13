@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-06-13 23:21:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-06-08 20:47:29 +0800"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2019-06-13 23:11:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2019-06-12 14:45:30 +0800"
@@ -430,6 +442,12 @@
       "iron_chestplate": "2019-06-08 21:06:43 +0800",
       "iron_leggings": "2019-06-08 21:06:43 +0800",
       "iron_helmet": "2019-06-08 21:06:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-06-13 23:10:51 +0800"
     },
     "done": true
   },
@@ -889,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2019-06-13 23:11:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-06-09 07:55:22 +0800"
@@ -1159,14 +1183,19 @@
       "minecraft:taiga_hills": "2019-06-08 22:00:34 +0800",
       "minecraft:frozen_river": "2019-06-09 07:33:32 +0800",
       "minecraft:deep_frozen_ocean": "2019-06-09 21:57:43 +0800",
+      "minecraft:birch_forest": "2019-06-13 23:04:37 +0800",
       "minecraft:snowy_beach": "2019-06-09 07:32:29 +0800",
+      "minecraft:warm_ocean": "2019-06-13 23:04:55 +0800",
+      "minecraft:deep_lukewarm_ocean": "2019-06-13 23:04:51 +0800",
       "minecraft:beach": "2019-06-09 07:28:07 +0800",
+      "minecraft:dark_forest": "2019-06-13 23:15:00 +0800",
       "minecraft:river": "2019-06-08 20:40:10 +0800",
       "minecraft:lukewarm_ocean": "2019-06-08 21:38:14 +0800",
       "minecraft:snowy_taiga": "2019-06-13 17:02:10 +0800",
       "minecraft:wooded_mountains": "2019-06-09 17:47:53 +0800",
       "minecraft:wooded_hills": "2019-06-08 21:29:19 +0800",
       "minecraft:stone_shore": "2019-06-08 21:38:10 +0800",
+      "minecraft:swamp": "2019-06-13 23:09:25 +0800",
       "minecraft:plains": "2019-06-08 21:29:28 +0800"
     },
     "done": false
@@ -1204,6 +1233,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-06-08 20:41:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-06-13 23:10:51 +0800"
     },
     "done": true
   },
@@ -1728,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-06-13 23:10:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2019-06-08 21:11:47 +0800"
@@ -1918,6 +1959,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2019-06-08 20:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-06-13 23:10:51 +0800"
     },
     "done": true
   },
@@ -2227,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-06-13 23:10:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-06-08 21:29:43 +0800"
@@ -2524,6 +2577,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2019-06-08 21:18:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2019-06-13 23:10:51 +0800"
     },
     "done": true
   },
