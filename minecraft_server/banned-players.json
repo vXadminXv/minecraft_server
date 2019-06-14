@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "839a94d1-6265-36b7-afcd-c61111fa3c3f",
+    "name": "Thegieatmoese",
+    "created": "2019-06-14 20:27:44 +0800",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
